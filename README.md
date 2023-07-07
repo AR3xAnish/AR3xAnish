@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AR3xAnish
-- 👀 I’m interested in photography
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via Twitter--> @AR3xAnish or LinkedIn--> ANISH SHANKAR NILAJKAR
