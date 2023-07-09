@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AR3xAnish
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Web Development
 - 📫 Reach me via Twitter--> @AR3xAnish
 - 👍 Connect me on LinkedIn--> ANISH SHANKAR NILAJKAR
 
