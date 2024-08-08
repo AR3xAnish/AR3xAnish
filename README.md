@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @AR3xAnish
+- 👋 Hi, I’m Anish Nilajkar
+- 🕺 2nd year CS engineering student
 - 👀 College-Music-Code-sleep
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently DSA with C++
 - 📫 Reach me via Twitter--> @AR3xAnish
 - 👍 Connect me on LinkedIn--> ANISH SHANKAR NILAJKAR
 
