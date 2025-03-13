@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anish Nilajkar
 - 🕺 2nd year CS engineering student
 - 👀 Code-Eat-Sleep-Repeat
-- 🌱 Learning DSA with C++
+- 🌱 Working on Web Dev
 - 👋 Say hi -> anishsnilajkar@gmail.com
 - 📫 Reach me via Twitter -> @AR3xAnish
 - 👍 Connect me on LinkedIn -> ANISH SHANKAR NILAJKAR
