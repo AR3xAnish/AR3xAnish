@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anish Nilajkar
-- 🕺 2nd year CS engineering student
+- 🕺 3rd year CS engineering student
 - 👀 Code-Eat-Sleep-Repeat
 - 🌱 Working on Web Dev
 - 👋 Say hi -> anishsnilajkar@gmail.com
